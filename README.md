@@ -1,0 +1,1 @@
+# flask_func_struct_angular
