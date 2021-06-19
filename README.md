@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/vroncevic/flask_func_struct_angular/dev/docs/flask_func_struct_angular_logo.png" width="25%">
+<img align="right" src="https://raw.githubusercontent.com/vroncevic/flask_func_struct_angular/dev/docs/flask_angular_struct_logo.png" width="25%">
 
 # flask angular
 
