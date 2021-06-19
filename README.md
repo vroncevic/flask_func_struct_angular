@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/vroncevic/flask_func_struct_angular/dev/docs/flask_angular_struct_logo.png" width="25%">
+<img align="right" src="https://raw.githubusercontent.com/vroncevic/flask_func_struct_angular/dev/docs/flask_func_struct_angular_logo.png" width="25%">
 
-# flask angular
+# flask functional structure with angular
 
 **flask_func_struct_angular** is framework for creating/building flask-angular Apps.
 
@@ -25,8 +25,6 @@ other information that should be provided before the modules are installed.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### Installation
-
-![Install Python2 Package](https://github.com/vroncevic/flask_func_struct_angular/workflows/Install%20Python2%20Package%20flask_func_struct_angular/badge.svg?branch=master) ![Install Python3 Package](https://github.com/vroncevic/flask_func_struct_angular/workflows/Install%20Python3%20Package%20flask_func_struct_angular/badge.svg?branch=master)
 
 Navigate to **[release page](https://github.com/vroncevic/flask_func_struct_angular/releases)** download and extract release archive.
 
