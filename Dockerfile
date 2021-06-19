@@ -33,8 +33,6 @@ RUN DEBIAN_FRONTEND=noninteractive \
 
 RUN pip install --upgrade setuptools
 RUN pip3 install --upgrade setuptools
-RUN mkdir /ats_utilities/
-COPY ats_utilities /ats_utilities/
 COPY setup.py /
 COPY README.md /
 COPY requirements.txt /
