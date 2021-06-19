@@ -33,7 +33,6 @@ RUN DEBIAN_FRONTEND=noninteractive \
 
 RUN pip install --upgrade setuptools
 RUN pip3 install --upgrade setuptools
-COPY setup.py /
 COPY README.md /
 COPY requirements.txt /
 RUN pip install -r requirements.txt
